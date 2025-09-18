@@ -129,4 +129,4 @@ with col3:
 
     st.button("Mostrar Histórico", on_click=mostrar_se_historico)
     
-    # fim do código
+#  atualização do codigo
