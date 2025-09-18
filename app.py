@@ -128,3 +128,5 @@ with col3:
         st.session_state["senha"] = ""
 
     st.button("Mostrar Histórico", on_click=mostrar_se_historico)
+    
+    # fim do código
